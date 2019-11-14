@@ -14,6 +14,15 @@ Conducted: <br>
 
 
 
-To view the rmp files, please download RapidMiner Stuidos.
-Thank you for stopping by!
-Have a great rest of the day!
+To view the rmp files, please download RapidMiner Stuidos.<br>
+Two reports on the approach taken.<br>
+
+Thank you for stopping by!<br>
+Have a great rest of the day!<br>
+
+
+
+
+What is RapidMiner Studio ?<br>
+RapidMiner Studio is a powerful data mining tool for rapidly building predictive models. This all-in-one tool features hundreds of data preparation and machine learning algorithms to support all your data mining projects. Over 30,000+ organizations in every industry to drive revenue, reduce costs, and avoid risks.
+
